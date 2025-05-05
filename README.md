@@ -30,6 +30,8 @@ or
 
 then you can cd into the server directory and then
 
+- Also don't forget to add Hugging face token in the dot env file to run the Transformer models locally
+
 #### `npm i`
 
 then
